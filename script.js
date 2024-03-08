@@ -165,4 +165,4 @@ function show() {
 
 setTimeout(() => {
   show();
-}, 10 * 1000);
+}, 7 * 1000);
