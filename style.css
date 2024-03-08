@@ -22,7 +22,7 @@ h2 {
   color: #fff;
   z-index: 1;
   overflow: hidden;
-  animation: hide 10s linear forwards;
+  animation: hide 7s linear forwards;
 }
 
 @keyframes hide {
